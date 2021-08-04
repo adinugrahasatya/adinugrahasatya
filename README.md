@@ -18,11 +18,11 @@ Computer Science alumnus at [University of Bologna](https://www.unibo.it/en). Cy
 
 ### 📬 Get in Touch
 
-- StackOverflow: [stackoverflow.com/federico-dondi][stackoverflow]
+- StackOverflow: [stackoverflow](https://stackoverflow.com/users/16517043/adi-nugraha)
 - GitHub: [github.com/federico-dondi][github]
 - LinkedIn: coming soon
 - Site: [federico-dondi.github.io][site]
-- E-mail: adi.nugraha2003@gmail.com
+- E-mail: [Adi Nugraha](mailto:adi.nugraha2003@gmail.com)
 
 ### 📚 Looking for my Resume? E-Mail me!
 
