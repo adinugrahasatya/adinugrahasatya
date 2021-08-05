@@ -1,19 +1,18 @@
 # Hello, I'm Adi Nugraha 👋
 
-Informatics undergraduate at [Bandung Institute of Technology](https://www.itb.ac.id/). Cyber-Security enthusiast with deep interest of programming, minimalism, and productivity. Fascinated by everything that's Computer Science related.
+Informatics Engineering undergraduate at [Bandung Institute of Technology](https://www.itb.ac.id/). Cyber-Security enthusiast with deep interest of programming, minimalism, and productivity. Fascinated by everything that's Computer Science related.
 
-- 🔭 Bachelor's degree in **Computer Science** at UniBo
-- 🌱 I’m currently learning **Cyber Security** at UniMore
-- ⚙️ Mastering: `.py`, `.html`,`.css`,`.js`,`.ts`
+- 🔭 Pursuing Bachelor's degree in **Informatics Engineering** at ITB
+- 🌱 I’m currently learning **Scientific Computing with Python** at freecodecamp
+- ⚙️ Mastering: `.py`, `.html`,`.css`,`.js`,`.kt`
 - 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
-- 💬 I'm mostly active within the **Cyber Security**, **Vue.JS**, **Node.JS** and **Unity 3D** communities
+- 💬 I'm mostly active within the **Scientific Computing** communities
 
 ### 📬 Get in Touch
 
 - E-mail: [adi.nugraha2003@gmail.com](mailto:adi.nugraha2003@gmail.com)
 - LinkedIn: [linkedin.com/adinugrahasatya/](https://www.linkedin.com/in/adinugrahasatya/)
 - StackOverflow: [stackoverflow.com/adinugrahasatya](https://stackoverflow.com/users/16517043/adinugrahasatya)
-- GitHub: [github.com/adinugrahasatya](https://github.com/adinugrahasatya)
 - Site: [adinugrahasatya.github](https://adinugrahasatya.github.io/)
 
 
