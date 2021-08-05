@@ -14,7 +14,7 @@ Informatics undergraduate at [Bandung Institute of Technology](https://www.itb.a
 - LinkedIn: [linkedin.com/adinugrahasatya/](https://www.linkedin.com/in/adinugrahasatya/)
 - StackOverflow: [stackoverflow.com/adinugrahasatya](https://stackoverflow.com/users/16517043/adinugrahasatya)
 - GitHub: [github.com/adinugrahasatya](https://github.com/adinugrahasatya)
-- Site: Coming soon!
+- Site: [adinugrahasatya.github](https://adinugrahasatya.github.io/)
 
 
 ### 📚 Looking for my Resume? E-Mail me!
