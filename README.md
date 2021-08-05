@@ -6,7 +6,7 @@ Informatics Engineering undergraduate at [Bandung Institute of Technology](https
 - 🌱 I’m currently learning **Scientific Computing with Python** at freecodecamp
 - ⚙️ Mastering: `.py`, `.html`,`.css`,`.js`,`.kt`
 - 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
-- 💬 I'm mostly active within the **Scientific Computing** communities
+- 💬 I'm mostly active within the **Cyber Security** communities
 
 ### 📬 Get in Touch
 
