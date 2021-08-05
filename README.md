@@ -10,7 +10,7 @@ Informatics Engineering undergraduate at [Bandung Institute of Technology](https
 
 ### 📬 Get in Touch
 
-- E-mail: [adi.nugraha2003@gmail.com](mailto:adi.nugraha2003@gmail.com)
+- E-mail: [adi.nugraha2003@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=adi.nugraha2003@gmail.com)
 - LinkedIn: [linkedin.com/adinugrahasatya/](https://www.linkedin.com/in/adinugrahasatya/)
 - StackOverflow: [stackoverflow.com/adinugrahasatya](https://stackoverflow.com/users/16517043/adinugrahasatya)
 - Site: [adinugrahasatya.github](https://adinugrahasatya.github.io/)
