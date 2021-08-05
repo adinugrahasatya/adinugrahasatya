@@ -1,10 +1,9 @@
 # Hello, I'm Adi Nugraha 👋
 
-Computer Science alumnus at [University of Bologna](https://www.unibo.it/en). Cyber Security enthusiast with passion for videogames, played or created alike. Fascinated by everything that's CS related. Proudly from [Bologna, Italy](https://g.page/Due-Torri-Bologna?share) 🇮🇹
+Informatics undergraduate at [Bandung Institute of Technology](https://www.itb.ac.id/). Cyber-Security enthusiast with deep interest of programming, minimalism, and productivity. Fascinated by everything that's Computer Science related.
 
 - 🔭 Bachelor's degree in **Computer Science** at UniBo
 - 🌱 I’m currently learning **Cyber Security** at UniMore
-- 🌱 I’m currently learning **Security Analyst** and **Web-App Vulnerabilities**
 - ⚙️ Mastering: `.py`, `.html`,`.css`,`.js`,`.ts`
 - 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
 - 💬 I'm mostly active within the **Cyber Security**, **Vue.JS**, **Node.JS** and **Unity 3D** communities
