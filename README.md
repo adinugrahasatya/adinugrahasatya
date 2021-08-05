@@ -1,12 +1,5 @@
 # Hello, I'm Adi Nugraha 👋
 
-![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
-![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
-
 Computer Science alumnus at [University of Bologna](https://www.unibo.it/en). Cyber Security enthusiast with passion for videogames, played or created alike. Fascinated by everything that's CS related. Proudly from [Bologna, Italy](https://g.page/Due-Torri-Bologna?share) 🇮🇹
 
 - 🔭 Bachelor's degree in **Computer Science** at UniBo
@@ -18,11 +11,12 @@ Computer Science alumnus at [University of Bologna](https://www.unibo.it/en). Cy
 
 ### 📬 Get in Touch
 
-- StackOverflow: [stackoverflow](https://stackoverflow.com/users/16517043/adi-nugraha)
-- GitHub: [github.com/federico-dondi][github]
-- LinkedIn: coming soon
-- Site: [federico-dondi.github.io][site]
-- E-mail: [Adi Nugraha](mailto:adi.nugraha2003@gmail.com)
+- E-mail: [adi.nugraha2003@gmail.com](mailto:adi.nugraha2003@gmail.com)
+- LinkedIn: [linkedin.com/adinugrahasatya/](https://www.linkedin.com/in/adinugrahasatya/)
+- StackOverflow: [stackoverflow.com/adinugrahasatya](https://stackoverflow.com/users/16517043/adinugrahasatya)
+- GitHub: [github.com/adinugrahasatya](https://github.com/adinugrahasatya)
+- Site: Coming soon!
+
 
 ### 📚 Looking for my Resume? E-Mail me!
 
